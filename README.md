@@ -137,7 +137,7 @@ This printer can be used for printing TPU.
 
 
 
-## Recommended Setting for each filament types
+## Recommended setting for each filament types
 Pleas check the example [folder](./Filament_settings).
 
 
