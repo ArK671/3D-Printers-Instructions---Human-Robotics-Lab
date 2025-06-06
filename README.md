@@ -28,8 +28,8 @@ If the printer encounters any issues during operation, please notify me immediat
 ## List of Printers
 | |Printer|Printable Materials|Responsible Person
 |-|-------|-------------------|------------------
-|<img src="Bambu Lab A1.webp" width="300" alt="Bambu Lab A1">|[Bambu Lab A1](#Bambu-Lab-A1)|TPU and PLA|Ali K
-|<img src="Prusa Core One.jpg" width="300" alt="Prusa Core One">|[Prusa Core One](#Prusa-Core-One)|TPU|Ali K
+|<img src="Figures/Bambu Lab A1.webp" width="300" alt="Bambu Lab A1">|[Bambu Lab A1](#Bambu-Lab-A1)|TPU and PLA|Ali K
+|<img src="Figures/Prusa Core One.jpg" width="300" alt="Prusa Core One">|[Prusa Core One](#Prusa-Core-One)|TPU|Ali K
 
 
 
@@ -77,7 +77,7 @@ This printer can be used for printing PLA or TPU.
 
 1. The printer is currently equipped with a **standard 0.4 mm nozzle**. This setting should remain unchanged unless otherwise specified for particular printing needs.
 
-![Figure 1](Bambu_Studio_UI.PNG)
+![Figure 1](Figures/Bambu_Studio_UI.PNG)
 
 *Figure 1: Bambu Studio user interface*
 
@@ -98,7 +98,7 @@ This printer can be used for printing PLA or TPU.
     
 1. Leave the remaining settings at their default values. Once all adjustments are complete, save the preset by clicking the save icon next to the filament name (indicated by the red rectangle in Figure 2). Before saving, rename the filament profile to  for future reference.
    
-![Figure 2](Bambu_Studio_filament_setting.PNG)
+![Figure 2](Figures/Bambu_Studio_filament_setting.PNG)
 
 *Figure 2: Bambu Studio filament setting* 
     
@@ -114,7 +114,7 @@ This printer can be used for printing PLA or TPU.
 
     
 9. After enabling supports in the **Process settings**, you can apply manual supports by specifying the areas where support is needed using the **Support Painting** tool, located on the top taskbar, as shown in Figure 3. Simply paint the surfaces that require support.  
- ![Figure 3 ](Bambu_Studio_task_bar.png)
+ ![Figure 3 ](Figures/Bambu_Studio_task_bar.png)
 
 *Figure 3: Bambu Studio task bar: 1) adding STL file, 2) moving the part on the bed plate 3)
 Rotating the part along its axes, 4) choosing a surface to place it on the bed, and 5) support
