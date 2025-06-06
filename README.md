@@ -36,10 +36,8 @@ If the printer encounters any issues during operation, please notify me immediat
 ## Bambu Lab A1 (BL)
 This printer can be used for printing PLA or TPU. 
 
-* Material left Nozzle: TPU 1.75mm 
-* Material right Nozzle:PLA 1.75mm 
+* Material : PLA 1.75mm  and TPU 1.75mm 
 * Nozzle: 0.4mm
-* Recommended
 * Printable Volume: 256 x 256 x 256 mm
   
 ### Loading and Unloading Filament
