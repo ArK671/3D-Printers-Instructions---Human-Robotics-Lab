@@ -140,7 +140,7 @@ This printer can be used for printing TPU.
 
 
 ## Slicer Setting for each filament types
-Pleas check the example [folder](./Slicer_Examples).
+Pleas check the example [folder](./Filament_settings).
 
 
 
