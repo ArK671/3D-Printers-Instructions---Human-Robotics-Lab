@@ -4,7 +4,7 @@ Please read the instructions carefully and stick to the usage rules.
 
 ## General Guidlines
 1. **Induction before use:**
-First time users need to get an introduction by Ali K. who is the responsible person for the printers.
+First time users need to get an introduction by Ali K. who is the responsible person for the printers. Master students must first obtain approval from their supervisor.
 
 1. **Clearance Requirements:**
 As observed in the lab, the Bambu Lab A1 printer requires sufficient clearance to operate properly due to the movement of the print bed. Please ensure a minimum of 10 cm of space on the left side and 20 cm on the right side of the printer at all times. These areas have been clearly marked on the shelf. Kindly avoid placing any items within this designated space.
