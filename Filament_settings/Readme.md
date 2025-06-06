@@ -1,5 +1,12 @@
-# Print settings required for each filament:
+## Print Settings for Each Filament
 
-In this folder you can find the project file with the recommended settings for filaments that we currently have in the lab. Please download the file realted to the filament with which you want to print and then add your STL file in the project and do as expalined in the instrcutions. This document will be updated based in our filament stock in the lab.
-1. for **PLA** we are currently using **ESUN PLA+** which has deafult settings in Bambu Studio and you just need to specify your filament in the filament list as **ESUN PLA+**.Add commentMore actions
-2. For **TPU**, we currently have **ESUN TPU 95A** and **ESUN TPE 83A** please find attached the required setting for each type in Bambu Studio in this folder.
+In this folder, you will find project files containing the recommended print settings for the filaments currently available in the lab.  
+Please download the project file corresponding to the filament you intend to use. Then, add your STL file to the project and follow the provided instructions.
+
+This document will be updated regularly based on the filaments available in our lab.
+
+1. For **PLA**, we are currently using **ESUN PLA+**, which has default settings in **Bambu Studio**.  
+   Simply select **ESUN PLA+** from the filament list.
+
+2. For **TPU**, we currently have **ESUN TPU 95A** and **ESUN TPE 83A**.  
+   The recommended settings for each type are included in this folder and can be imported into **Bambu Studio**.
