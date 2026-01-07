@@ -42,7 +42,7 @@ This printer can be used for printing PLA or TPU.
   
 ### Loading and Unloading Filament
     
-1. To load filament into the printer, first place the filament spool into the filament dryer. After guiding the filament through the dryer's designated exit, gently push it through the transparent tube ,attached to the printer, until it reaches the extruder.
+1. To load filament into the printer, first place the filament spool on the spool holder. Then, gently push the filament through the transparent tube ,attached to the printer, until it reaches the extruder.
 
     
 1. On the printer's touchscreen, select **Filament**, then choose **Load Filament**. You will be prompted to specify the filament type—select either PLA or TPU, depending on what you are using.
